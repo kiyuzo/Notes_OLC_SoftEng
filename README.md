@@ -2,6 +2,8 @@
 
 **Author:** KiyuZo - Rama Pratama
 
+### App Ready Link --> https://kiyunotes.vercel.app/
+
 This is a project that i made by utilizing AlulCOde's repo on https://github.com/AlulCode45. Keep in mind i didn't know React JS or Vite at all before making this project, so i had to learn while i modified the code. The only knowledge that i have beforehand are HTML, CSS, simple JS that you would use in calculating math problems, and a little bit of Tailwind CSS. This note app doesn't utilize any backend so your files would be deleted after you end your session by closing your tab or browser. I tried to make it look similar to the figma (except for the home and archives because i don't know how to make folders and stuff) so i'm focusing more on the Front End than the Back End. Either way i'm proud that i made this because i get to learn a lot of stuff and i didn't gave up the OLC Assignment.
 
 ### How to use the app 🚀
